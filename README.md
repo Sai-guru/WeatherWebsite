@@ -8,6 +8,7 @@ This project is a React-based weather application that allows users to fetch and
 - Displays temperature, humidity, pressure, wind speed, weather condition, sunrise, and sunset times.
 - Clean and responsive UI with weather-specific icons/emojis.
 - Error handling for invalid city names.
+- 🛠 Check it out here: https://prigeesh-weatherweb.netlify.app/
 
 ## Tech Stack 🛠️
 
