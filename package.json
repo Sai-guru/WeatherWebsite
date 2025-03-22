@@ -2,13 +2,11 @@
   "name": "weather-website",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Sai-guru.github.io/WeatherWebsite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
