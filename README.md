@@ -21,23 +21,22 @@ This project is a React-based weather application that allows users to fetch and
    ```bash
    git clone https://github.com/Sai-guru/WeatherWebsite.git
    cd WeatherWebsite
-Install dependencies:
-
-bash
-Copy
-Edit
+# 2. Install Dependencies
 npm install
-Set up the .env file:
 
-Create a .env file in the root directory of the project.
+# 3. Set Up Environment Variables
+# Create a .env file in the root directory of the project and add the following line:
+# VITE_API_KEY=your_openweathermap_api_key
+# Replace 'your_openweathermap_api_key' with your actual API key from OpenWeatherMap.
 
-Add the following line to the .env file:
+# 4. Start the Development Server
+npm run dev
 
-env
-Copy
-Edit
-VITE_API_KEY=your_openweathermap_api_key
-Replace your_openweathermap_api_key with your actual API key from OpenWeatherMap.
+# 5. Build for Production (Optional)
+npm run build
+
+# 6. Preview the Production Build (Optional)
+npm run preview API key from OpenWeatherMap.
 
 Start the development server:
 type  "npm run dev"
