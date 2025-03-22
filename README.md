@@ -17,10 +17,14 @@ This project is a React-based weather application that allows users to fetch and
 
 ## Setup Instructions 🚀
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Sai-guru/WeatherWebsite.git
-   cd WeatherWebsite
+Follow these steps to set up the project on your local system:
+
+### Steps to Set Up
+```bash
+# 1. Clone the Repository
+git clone https://github.com/Sai-guru/WeatherWebsite.git
+cd WeatherWebsite
+
 # 2. Install Dependencies
 npm install
 
@@ -36,14 +40,4 @@ npm run dev
 npm run build
 
 # 6. Preview the Production Build (Optional)
-npm run preview API key from OpenWeatherMap.
-
-Start the development server:
-type  "npm run dev"
-
-Usage 🌟
-Enter the name of the city in the input field.
-
-Click the "Get Weather" button to fetch the weather details.
-View the weather information including temperature, humidity, pressure, wind speed, weather condition, sunrise, and sunset times.
-Made with ❤ by Sai-guru
+npm run preview
